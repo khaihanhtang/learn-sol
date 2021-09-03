@@ -1,0 +1,1 @@
+This project imitate "Smart Contracts with Solidity" in Section 2, Ethereum and Solidity: The Complete Developer's Guide, Udemy.
